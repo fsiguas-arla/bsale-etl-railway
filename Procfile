@@ -1,0 +1,1 @@
+worker: python extraccion_db_ventas_bsale_prueba.py
